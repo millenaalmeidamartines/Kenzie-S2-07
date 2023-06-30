@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+}
+
+.foco {
+    font-size: 15px;
+}
+
+h2 {
+    line-height: 50px;
+}
+
+p {
+    line-height: 30px;
+}
+
+.bg-blue {
+    background-color: #217ae0;
+    color: #e9e5e5;
+}
+
+ol {
+    line-height: 30px;
+}
+
+a {
+    color: #217ae0;
+}
+
+li a {
+    color: black;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: #e9e5e5;
+    font-weight: 100;
+}
